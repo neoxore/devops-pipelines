@@ -13,6 +13,7 @@ export class AppController {
 
   @Get('/health')
   async getHealth() {
+    console.log('Health check hit');
     return {
       status: 'ok',
       uptime: process.uptime(),
