@@ -50,10 +50,10 @@ Developer → GitHub → GitHub Actions (CI) → Render (CD) → Public URL
 
 ## Screenshots
 
-> Replace the paths with your files.
-
 * **CI success (GitHub Actions):**
-  ![CI success](docs/screenshots/ci-success.png)
+
+  
+  ![CI success](https://github.com/neoxore/devops-pipelines/blob/main/IMAGE%202025-11-08%2008%3A59%3A39.jpg)
 
 * **Live deploy (Render):**
 
