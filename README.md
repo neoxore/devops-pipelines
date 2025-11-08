@@ -56,7 +56,9 @@ Developer → GitHub → GitHub Actions (CI) → Render (CD) → Public URL
   ![CI success](docs/screenshots/ci-success.png)
 
 * **Live deploy (Render):**
-  ![Render live](docs/screenshots/render-live.png)
+
+
+  ![Render live](https://github.com/neoxore/devops-pipelines/blob/main/IMAGE%202025-11-08%2008%3A59%3A30.jpg)
 
 ---
 
