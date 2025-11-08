@@ -1,5 +1,3 @@
-Awesome — here’s a polished, **English** README you can drop in as `README.md`.
-I included spots for your two screenshots (CI success + Render live deploy). Replace the image paths and the Render URL if needed.
 
 ---
 
